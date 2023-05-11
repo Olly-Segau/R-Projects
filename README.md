@@ -1,4 +1,4 @@
-# R-Projects <br/>
+# Sample Superstore Analysis in R <br/>
 The focus is to answer the following business questions: 
 - How do Sales impact Profit in the context of the data available? 
 - Is there a statistically significant linear relationship between Sales and Profit?
